@@ -1,4 +1,5 @@
-import React, { Component } from 'react'
+import React from 'react'
+// , { Component }
 import './App.css';
 import Clock from 'react-live-clock';
 import WeatherInfo from './weatherInfo'
