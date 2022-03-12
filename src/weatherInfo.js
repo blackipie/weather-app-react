@@ -18,6 +18,7 @@ function WeatherInfo(props) {
         break;
         case "RAIN":
         weatherIcon = 'CLOUDY'
+        break;
         default:
         weatherIcon = 'CLEAR_DAY'  
     }
